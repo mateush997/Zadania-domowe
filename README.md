@@ -1,2 +1,2 @@
 # Zadania-domowe
-Zadania domowe na szkolenia
+Zadania domowe szkolenie
